@@ -1,16 +1,34 @@
-## Hi there 👋
+#  I am Vethra M
+ Integrated M.Tech in AI & Bioinformatics  
+ 1st year student 
+ VIT Bhopal University  
 
-<!--
-**vethra25mib10011-cpu/vethra25mib10011-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+##  About Me
+I am a student passionate about the intersection of **Artificial Intelligence and Bioinformatics**.  
+I aim to develop skills in data analysis, computational biology, and intelligent systems to solve real-world problems.
+To build strong expertise in AI and Bioinformatics and contribute to impactful innovations in healthcare and science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Interests
+- Artificial Intelligence  
+- Bioinformatics  
+- Data Science  
+- Computational Biology  
+
+---
+
+## 🛠️ Skills (Learning Phase)
+- Python (beginner)  
+- Basic Mathematics for AI  
+- Problem Solving
+- C++(beginner)
+
+---
+## 🌐 Connect With Me
+- 🔗 LinkedIn: [Add your LinkedIn link here]  
+
+---
+
