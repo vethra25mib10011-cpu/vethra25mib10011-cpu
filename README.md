@@ -28,7 +28,7 @@ To build strong expertise in AI and Bioinformatics and contribute to impactful i
 
 ---
 ## 🌐 Connect With Me
-- 🔗 LinkedIn: [Add your LinkedIn link here]  
+- 🔗 LinkedIn: www.linkedin.com/in/vethra-m-9b87a63b9
 
 ---
 
